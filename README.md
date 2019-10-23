@@ -74,7 +74,7 @@ After install necessary libraries, now we can run the app by run this script at 
 npm run dev
 ```
 
-You can see the message `I am a message from Server!` sent from server to client.<br>
+You can see the list of database will show on the screen.<br>
 Done!
 
 ## Folder Structure
