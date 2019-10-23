@@ -101,5 +101,5 @@ React-server-and-client-master/
 
 ## Something missing?
 
-If you have any problems, [let me know](https://github.com/hocwebchuan/React-server-and-client/issues).<br>
+If you have any problems, [let me know](https://github.com/hocwebchuan/React-and-MySQL/issues).<br>
 Thanks for using it!
