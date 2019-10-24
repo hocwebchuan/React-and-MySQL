@@ -1,4 +1,4 @@
-# React Server and Client
+# React and MySQL
 This project is a simple way to create API by Express.js, then send a message from the server to the client.<br>
 Tutorial avaiable at [https://hocwebchuan.com](https://hocwebchuan.com/tutorial/reactjs/reactjs_mysql.php)
 
