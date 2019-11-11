@@ -16,7 +16,7 @@ Tutorial avaiable at [https://hocwebchuan.com](https://hocwebchuan.com/tutorial/
 
 ## Create and Import a data sample
 Extract the download file.<br>
-Create and change your database follow `/app.js` file
+Create and change your database information follow `/app.js` file
 ```
   host: 'localhost',
   user: 'reactUser',
@@ -24,7 +24,7 @@ Create and change your database follow `/app.js` file
   database: 'reactmysql'
 ```
 
-Import `/news.sql` file into your database.
+Import `/news.sql` file into your database system.
 
 ## Available Scripts
 In the project directory, follow these steps:
@@ -87,6 +87,7 @@ React-server-and-client-master/
     node_modules/
     public/
     src/
+      App.js
     .gitignore
     package.json
     package-lock.json

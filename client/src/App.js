@@ -10,9 +10,9 @@ class App extends Component {
   }
 
   componentDidMount() {
-    axios.get('/api/test')
+    axios.get('/api/news')
          .then(res => {
-            const news = res.data; console.log(news);
+            const news = res.data;
             this.setState({ news: news.news });
           })
          .catch(error => console.log(error));

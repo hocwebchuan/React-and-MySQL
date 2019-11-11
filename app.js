@@ -13,7 +13,7 @@ connection.connect(function(err){
   (err) ? console.log(err) : console.log(connection);
 });
 
-app.get('/api/test', (req, res) => {
+app.get('/api/news', (req, res) => {
   var sql = "SELECT * FROM news";
   connection.query(sql, function(err, results) {
     if (err) throw err;
